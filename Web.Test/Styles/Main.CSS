@@ -1,0 +1,20 @@
+:root{
+    --Header-Text-Colour: #7e7c7c;
+    --Text-Colour: #a0a0a0;
+    --Background-Colour: #363636;
+    --Background-Colour-Highlight: #575656;
+    --Foreground-Colour: #814900;
+    --Foreground-Colour-Highlight: #af6a0f;
+
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color: var(--Background-Colour);
+    color: var(--Text-Colour);
+}
+
+h1{
+    color: var(--Header-Text-Colour);
+}
