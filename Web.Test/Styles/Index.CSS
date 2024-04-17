@@ -12,3 +12,13 @@
     position: absolute;
     top: 15%;
 }
+
+.SecondDiv{
+    background-color: var(--Foreground-Colour);
+    height: 10%;
+    width: 40%;
+    position: absolute;
+    top: 10%;
+    right: 30%;
+
+}
