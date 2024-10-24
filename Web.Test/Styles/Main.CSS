@@ -3,14 +3,14 @@
     --Text-Colour: #a0a0a0;
     --Background-Colour: #363636;
     --Background-Colour-Highlight: #575656;
-    --Foreground-Colour: #814900;
+    --Foreground-Colour: #006e81;
     --Foreground-Colour-Highlight: #af6a0f;
 
 }
 
 body{
-    padding: 0;
-    margin: 0;
+    padding: 10;
+    margin: 5;
     background-color: var(--Background-Colour);
     color: var(--Text-Colour);
 }

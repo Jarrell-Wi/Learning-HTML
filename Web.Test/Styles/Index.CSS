@@ -18,9 +18,10 @@
     height: 25%;
     width: 80%;
     position: absolute;
-    top: 15%;
-    right: 10%;
+    top: 20%;
+    right: 5%;
     border-radius: 15%;
-    border-style: groove;
+    border-style: dashed;
+
 
 }
