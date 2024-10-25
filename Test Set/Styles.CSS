@@ -14,4 +14,10 @@
     background-color: black;
     top: 50%;
     left: 50%;
+    transition: all 0.5s;
+}
+
+.Button::hover{
+    scale(1.25, 1.1)
+    background-color: grey;
 }
